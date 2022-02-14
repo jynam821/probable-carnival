@@ -29,7 +29,3 @@ def find_prime_list_under_number2(number):
 result = find_prime_list_under_number(input)
 result = find_prime_list_under_number2(input)
 print(result)
-
-
-result = find_prime_list_under_number(input)
-print(result)
